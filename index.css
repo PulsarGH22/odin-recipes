@@ -1,0 +1,27 @@
+.head{
+    background-color: rgb(230, 248, 157);
+}
+
+.logo{
+    width: 200px;
+    height: auto;
+}
+
+.list{
+    font-size: 24px;
+    background-color: rgba(206, 148, 94, 0.979);
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+}
+
+h1{
+    text-align: center;
+    color:white;
+    
+}
+
+body{
+    background-color: rgb(155, 103, 44);
+    font-family: Arial, Helvetica, sans-serif;
+}
